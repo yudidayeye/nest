@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"D:/04-learn-font/learn-node/nest/packages/core/","sources":["router/index.ts"],"names":[],"mappings":";;;;AAAA,uDAA6B;AAC7B,oDAA0B;AAC1B,iDAA+C;AAAtC,6GAAA,YAAY,OAAA","sourcesContent":["export * from './interfaces';\r\nexport * from './request';\r\nexport { RouterModule } from './router-module';\r\n"]}

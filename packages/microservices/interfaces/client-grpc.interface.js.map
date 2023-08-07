@@ -1,0 +1,1 @@
+{"version":3,"file":"client-grpc.interface.js","sourceRoot":"","sources":["client-grpc.interface.ts"],"names":[],"mappings":"","sourcesContent":["/**\r\n * @publicApi\r\n */\r\nexport interface ClientGrpc {\r\n  getService<T extends {}>(name: string): T;\r\n  getClientByServiceName<T = any>(name: string): T;\r\n}\r\n"]}

@@ -1,0 +1,1 @@
+{"version":3,"file":"ws-paramtype.enum.js","sourceRoot":"","sources":["ws-paramtype.enum.ts"],"names":[],"mappings":";;;AAAA,IAAY,WAGX;AAHD,WAAY,WAAW;IACrB,iDAAU,CAAA;IACV,mDAAW,CAAA;AACb,CAAC,EAHW,WAAW,2BAAX,WAAW,QAGtB","sourcesContent":["export enum WsParamtype {\r\n  SOCKET = 0,\r\n  PAYLOAD = 3,\r\n}\r\n"]}

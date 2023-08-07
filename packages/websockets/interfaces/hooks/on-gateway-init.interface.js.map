@@ -1,0 +1,1 @@
+{"version":3,"file":"on-gateway-init.interface.js","sourceRoot":"","sources":["on-gateway-init.interface.ts"],"names":[],"mappings":"","sourcesContent":["/**\r\n * @publicApi\r\n */\r\nexport interface OnGatewayInit<T = any> {\r\n  afterInit(server: T): any;\r\n}\r\n"]}

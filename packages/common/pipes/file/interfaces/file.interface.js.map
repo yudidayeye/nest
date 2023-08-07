@@ -1,0 +1,1 @@
+{"version":3,"file":"file.interface.js","sourceRoot":"","sources":["file.interface.ts"],"names":[],"mappings":"","sourcesContent":["export interface IFile {\r\n  mimetype: string;\r\n  size: number;\r\n}\r\n"]}

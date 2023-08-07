@@ -1,0 +1,1 @@
+{"version":3,"file":"rethrow.js","sourceRoot":"D:/04-learn-font/learn-node/nest/packages/core/","sources":["helpers/rethrow.ts"],"names":[],"mappings":";;;AAAO,MAAM,OAAO,GAAG,CAAC,GAAY,EAAE,EAAE;IACtC,MAAM,GAAG,CAAC;AACZ,CAAC,CAAC;AAFW,QAAA,OAAO,WAElB","sourcesContent":["export const rethrow = (err: unknown) => {\r\n  throw err;\r\n};\r\n"]}

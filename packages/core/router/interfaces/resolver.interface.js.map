@@ -1,0 +1,1 @@
+{"version":3,"file":"resolver.interface.js","sourceRoot":"D:/04-learn-font/learn-node/nest/packages/core/","sources":["router/interfaces/resolver.interface.ts"],"names":[],"mappings":"","sourcesContent":["export interface Resolver {\r\n  resolve(instance: any, basePath: string): void;\r\n  registerNotFoundHandler(): void;\r\n  registerExceptionHandler(): void;\r\n}\r\n"]}

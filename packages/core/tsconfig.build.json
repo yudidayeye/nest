@@ -10,7 +10,9 @@
       "@nestjs/microservices/*": ["../microservices/*"],
       "@nestjs/websockets": ["../websockets"],
       "@nestjs/websockets/*": ["../websockets/*"]
-    }
+    },
+    // 配置 sourcemap 根路径，解决sourcemap路径错误问题
+    "sourceRoot": "D:\\04-learn-font\\learn-node\\nest\\packages\\core"
   },
   "exclude": ["node_modules", "dist", "test/**/*", "*.spec.ts"],
   "references": [

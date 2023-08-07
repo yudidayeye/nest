@@ -1,0 +1,1 @@
+{"version":3,"file":"raw-body-request.interface.js","sourceRoot":"","sources":["raw-body-request.interface.ts"],"names":[],"mappings":"","sourcesContent":["/**\r\n * @publicApi\r\n */\r\nexport type RawBodyRequest<T> = T & { rawBody?: Buffer };\r\n"]}

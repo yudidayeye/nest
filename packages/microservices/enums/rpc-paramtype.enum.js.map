@@ -1,0 +1,1 @@
+{"version":3,"file":"rpc-paramtype.enum.js","sourceRoot":"","sources":["rpc-paramtype.enum.ts"],"names":[],"mappings":";;;AAAA,IAAY,YAIX;AAJD,WAAY,YAAY;IACtB,qDAAW,CAAA;IACX,qDAAW,CAAA;IACX,yDAAa,CAAA;AACf,CAAC,EAJW,YAAY,4BAAZ,YAAY,QAIvB","sourcesContent":["export enum RpcParamtype {\r\n  PAYLOAD = 3,\r\n  CONTEXT = 6,\r\n  GRPC_CALL = 9,\r\n}\r\n"]}

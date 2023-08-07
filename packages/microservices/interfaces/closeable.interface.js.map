@@ -1,0 +1,1 @@
+{"version":3,"file":"closeable.interface.js","sourceRoot":"","sources":["closeable.interface.ts"],"names":[],"mappings":"","sourcesContent":["export interface Closeable {\r\n  close(): void;\r\n}\r\n"]}

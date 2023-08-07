@@ -1,0 +1,1 @@
+{"version":3,"file":"custom-route-param-factory.interface.js","sourceRoot":"","sources":["custom-route-param-factory.interface.ts"],"names":[],"mappings":"","sourcesContent":["/**\r\n * @publicApi\r\n */\r\nexport type CustomParamFactory<TData = any, TInput = any, TOutput = any> = (\r\n  data: TData,\r\n  input: TInput,\r\n) => TOutput;\r\n"]}

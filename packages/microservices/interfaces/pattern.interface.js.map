@@ -1,0 +1,1 @@
+{"version":3,"file":"pattern.interface.js","sourceRoot":"","sources":["pattern.interface.ts"],"names":[],"mappings":"","sourcesContent":["export type MsFundamentalPattern = string | number;\r\n\r\nexport interface MsObjectPattern {\r\n  [key: string]: MsFundamentalPattern | MsObjectPattern;\r\n}\r\n\r\nexport type MsPattern = MsObjectPattern | MsFundamentalPattern;\r\n"]}

@@ -1,0 +1,1 @@
+{"version":3,"file":"nest-fastify-body-parser-options.interface.js","sourceRoot":"","sources":["nest-fastify-body-parser-options.interface.ts"],"names":[],"mappings":"","sourcesContent":["import type { AddContentTypeParser } from 'fastify';\r\n\r\nexport type NestFastifyBodyParserOptions = Omit<\r\n  Parameters<AddContentTypeParser>[1],\r\n  'parseAs'\r\n>;\r\n"]}

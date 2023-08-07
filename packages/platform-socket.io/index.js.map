@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["index.ts"],"names":[],"mappings":";AAAA;;;;;GAKG;;;AAEH,qDAA2B","sourcesContent":["/*\r\n * Nest @platform-socket.io\r\n * Copyright(c) 2017 - 2023 Kamil Mysliwiec\r\n * https://nestjs.com\r\n * MIT Licensed\r\n */\r\n\r\nexport * from './adapters';\r\n"]}

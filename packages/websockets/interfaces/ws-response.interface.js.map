@@ -1,0 +1,1 @@
+{"version":3,"file":"ws-response.interface.js","sourceRoot":"","sources":["ws-response.interface.ts"],"names":[],"mappings":"","sourcesContent":["/**\r\n * @publicApi\r\n */\r\nexport interface WsResponse<T = any> {\r\n  event: string;\r\n  data: T;\r\n}\r\n"]}

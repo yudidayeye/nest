@@ -1,0 +1,1 @@
+{"version":3,"file":"web-socket-server.interface.js","sourceRoot":"","sources":["web-socket-server.interface.ts"],"names":[],"mappings":"","sourcesContent":["/**\r\n * @publicApi\r\n */\r\nexport interface WebSocketServerOptions {\r\n  port: number;\r\n  namespace: string;\r\n}\r\n"]}

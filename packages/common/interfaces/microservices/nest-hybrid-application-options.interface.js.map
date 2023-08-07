@@ -1,0 +1,1 @@
+{"version":3,"file":"nest-hybrid-application-options.interface.js","sourceRoot":"","sources":["nest-hybrid-application-options.interface.ts"],"names":[],"mappings":"","sourcesContent":["/**\r\n * @publicApi\r\n */\r\nexport interface NestHybridApplicationOptions {\r\n  inheritAppConfig?: boolean;\r\n}\r\n"]}

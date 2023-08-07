@@ -1,0 +1,1 @@
+{"version":3,"file":"override-by-factory-options.interface.js","sourceRoot":"","sources":["override-by-factory-options.interface.ts"],"names":[],"mappings":"","sourcesContent":["/**\r\n * @publicApi\r\n */\r\nexport interface OverrideByFactoryOptions {\r\n  factory: (...args: any[]) => any;\r\n  inject?: any[];\r\n}\r\n"]}

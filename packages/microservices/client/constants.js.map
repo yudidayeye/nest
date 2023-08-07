@@ -1,0 +1,1 @@
+{"version":3,"file":"constants.js","sourceRoot":"","sources":["constants.ts"],"names":[],"mappings":";;;AAAa,QAAA,cAAc,GAAG,WAAW,CAAC;AAC7B,QAAA,oBAAoB,GAAG,uBAAuB,CAAC","sourcesContent":["export const GRPC_CANCELLED = 'Cancelled';\r\nexport const RABBITMQ_REPLY_QUEUE = 'amq.rabbitmq.reply-to';\r\n"]}

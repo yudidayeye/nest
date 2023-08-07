@@ -1,0 +1,1 @@
+{"version":3,"file":"streamable-options.interface.js","sourceRoot":"","sources":["streamable-options.interface.ts"],"names":[],"mappings":"","sourcesContent":["/**\r\n * Options for `StreamableFile`\r\n *\r\n * @publicApi\r\n */\r\nexport interface StreamableFileOptions {\r\n  type?: string;\r\n  disposition?: string;\r\n  length?: number;\r\n}\r\n"]}
